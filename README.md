@@ -48,6 +48,7 @@ Enhanced interactivity, allowing decision-makers to view trends from different a
 ✅ Demonstrated my end-to-end Power BI capabilities — from connecting data sources to delivering actionable insights.
 
 📸 Check out the dashboard snapshot “Super Store Sales“.pdf
+
 I’d love to connect with fellow data enthusiasts, BI professionals, and organizations passionate about Data Analytics, Visualization, and Decision Intelligence.
 
 Let’s discuss how data can drive business growth and smarter strategies!
